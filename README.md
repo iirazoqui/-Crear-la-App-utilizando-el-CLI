@@ -1,6 +1,6 @@
 ## Tasks CLI
 
-Tasks CLI is a program to manage your tasks in a database using terminal or console. This is a sample project for beginners
+programa para administrar sus tareas en una base de datos usando terminal o consola. 
 
 ### Requirements
 
